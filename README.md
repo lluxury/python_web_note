@@ -1,2 +1,3 @@
 # python_web_note
-python web 
+个人学习python的笔记的一个子集。   
+因为公司内容不方便放出来，所以额外的语法练习，组件部署会放这边。
